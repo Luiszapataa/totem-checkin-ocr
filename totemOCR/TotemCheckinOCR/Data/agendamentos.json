@@ -1,0 +1,24 @@
+[
+  {
+    "Cpf": "54023506800",
+    "NomePaciente": "LUIS FELIPE ALVES ZAPATA",
+    "DataHora": "2025-11-25T09:00:00",
+    "NomeMedico": "GRACE MURRAY",
+    "Crm": "12345-SP",
+    "Alergias": "Javaite (alergia a código cheio de ; e classes gigantes)",
+    "Medicamentos": "Refatoramina 500mg — usar quando o código tá feio demais",
+    "Diagnostico": "Cérebro com muitas threads abertas ao mesmo tempo",
+    "Observacoes": "Precisa descansar antes de fazer outro commit duvidoso."
+  },
+  {
+    "Cpf": "54023506800",
+    "NomePaciente": "LUIS FELIPE ALVES ZAPATA",
+    "DataHora": "2025-12-25T14:30:00",
+    "NomeMedico": "LINUS TORVALDS",
+    "Crm": "67890-SP",
+    "Alergias": "Nenhuma conhecida (só não deixar abrir o Internet Explorer)",
+    "Medicamentos": "Vitaminha D++ — ajuda a não deixar o código virar gambiarra",
+    "Diagnostico": "Rodando liso, só precisa evitar rage igual ao do Linux maintainers",
+    "Observacoes": "Aprovado pra continuar codando. Próximo check-up depois das próximas entregas."
+  }
+]
